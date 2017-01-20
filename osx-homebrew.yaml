@@ -111,7 +111,7 @@ gazebo5:
   osx:
     homebrew:
       packages: [osrf/simulation/gazebo5]
-gazebo7:
+gazebo8:
   osx:
     homebrew:
       packages: [gazebo8]
@@ -207,7 +207,7 @@ libgazebo5-dev:
   osx:
     homebrew:
       depends: [gazebo5]
-libgazebo7-dev:
+libgazebo8-dev:
   osx:
     homebrew:
       depends: [gazebo8]
